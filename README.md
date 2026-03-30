@@ -1,17 +1,6 @@
 <h1 align="center">Привет👋</h1>
 <h3 align="center">Frontend / Fullstack Разработчик, создающий быстрые и масштабируемые веб-приложения</h3>
 
-<p align="center">
-  <a href="https://github.com/jkerdley/jkerdley/actions/workflows/snake.yml">
-    <img src="https://github.com/jkerdley/jkerdley/actions/workflows/snake.yml/badge.svg" alt="Generate Snake Status" />
-  </a>
-  <a href="https://github.com/jkerdley/jkerdley/actions/workflows/metrics.yml">
-    <img src="https://github.com/jkerdley/jkerdley/actions/workflows/metrics.yml/badge.svg" alt="Metrics Status" />
-  </a>
-  <img src="https://img.shields.io/github/followers/jkerdley?style=flat&color=36BCF7&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/jkerdley?style=flat&color=36BCF7&label=Total%20Stars" alt="Total Stars" />
-</p>
-
 <br />
 
 <p align="center">
