@@ -28,15 +28,15 @@
 ### 📊 Моя активность на GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jkerdley&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИК&layout=compact&theme=radium&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkerdley&layout=compact&theme=radium&hide_border=true" width="48%" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_НИК&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jkerdley&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
 ---
