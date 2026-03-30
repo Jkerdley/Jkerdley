@@ -13,6 +13,7 @@
 - 🌱 Внедряю современные инструменты для сборки и рантайма, такие как **Vite** и **Bun**, для максимального Developer Experience.
 - 🏗 Проектирую архитектуру фронтенда и пишу надежные API на **Node.js, Express, Bun и Hono**.
 - 💬 Спроси меня про: **TypeScript, управление стейтом (RTK Query, Pinia), оптимизацию рендеринга**.
+- 📫 Как со мной связаться: **[Твой Email / Telegram / LinkedIn]**
 
 ---
 
@@ -37,7 +38,7 @@
 <br />
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jkerdley&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/jkerdley/jkerdley/main/github-metrics.svg" width="100%" alt="Metrics" />
 </div>
 
 ---
