@@ -2,6 +2,19 @@
 <h3 align="center">Frontend / Fullstack Разработчик, создающий быстрые и масштабируемые веб-приложения</h3>
 
 <p align="center">
+  <a href="https://github.com/jkerdley/jkerdley/actions/workflows/snake.yml">
+    <img src="https://github.com/jkerdley/jkerdley/actions/workflows/snake.yml/badge.svg" alt="Generate Snake Status" />
+  </a>
+  <a href="https://github.com/jkerdley/jkerdley/actions/workflows/metrics.yml">
+    <img src="https://github.com/jkerdley/jkerdley/actions/workflows/metrics.yml/badge.svg" alt="Metrics Status" />
+  </a>
+  <img src="https://img.shields.io/github/followers/jkerdley?style=flat&color=36BCF7&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/jkerdley?style=flat&color=36BCF7&label=Total%20Stars" alt="Total Stars" />
+</p>
+
+<br />
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Пишу+чистый+код+на+TypeScript;Люблю+React+19+и+Vue+3.5;Ускоряю+бэкенд+с+помощью+Bun+и+Hono" alt="Typing SVG" /></a>
 </p>
 
@@ -39,6 +52,19 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/jkerdley/jkerdley/main/github-metrics.svg" width="100%" alt="Metrics" />
 </div>
+
+---
+
+### 📫 Как со мной связаться
+
+<p align="left">
+  <a href="mailto:jk-erdley@yandex.ru" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://t.me/jkerdley" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+</p>
 
 ---
 
