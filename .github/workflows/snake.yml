@@ -1,21 +1,23 @@
 name: Generate Snake
 
 on:
-  # Запускать каждые 24 часа
   schedule:
     - cron: "0 0 * * *"
-  # Позволяет запускать Action вручную
   workflow_dispatch:
-  # Запускать при каждом пуше в ветку main
   push:
     branches:
       - main
+
+# Явно даем права на запись
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # Обновлено до v4
+      - uses: actions/checkout@v4
       
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
@@ -26,7 +28,8 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # Обновлено до v4.3.0
+        uses: crazy-max/ghaction-github-pages@v4.3.0
         with:
           target_branch: output
           build_dir: dist
