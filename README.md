@@ -28,9 +28,11 @@
 ### 📊 Моя активность на GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkerdley&show_icons=true&theme=radium&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkerdley&layout=compact&theme=radium&hide_border=true" width="48%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br />
