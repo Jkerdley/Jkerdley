@@ -13,7 +13,6 @@
 - 🌱 Внедряю современные инструменты для сборки и рантайма, такие как **Vite** и **Bun**, для максимального Developer Experience.
 - 🏗 Проектирую архитектуру фронтенда и пишу надежные API на **Node.js, Express, Bun и Hono**.
 - 💬 Спроси меня про: **TypeScript, управление стейтом (RTK Query, Pinia), оптимизацию рендеринга**.
-- 📫 Как со мной связаться: **[Твой Email / Telegram / LinkedIn]**
 
 ---
 
@@ -29,9 +28,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ТВОЙ_НИК/ТВОЙ_НИК/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jkerdley/Jkerdley/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jkerdley/Jkerdley/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jkerdley/Jkerdley/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
