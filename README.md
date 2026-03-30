@@ -11,9 +11,8 @@
 
 - 🔭 Сейчас я работаю над проектами, используя новейшие возможности **React 19.2** и **Vue 3.5 (Composition API)**.
 - 🌱 Внедряю современные инструменты для сборки и рантайма, такие как **Vite** и **Bun**, для максимального Developer Experience.
-- 🏗 Проектирую архитектуру фронтенда и пишу надежные API на **Node.js, Express, Bun и Hono**.
-- 💬 Спроси меня про: **TypeScript, управление стейтом (RTK Query, Pinia), оптимизацию рендеринга**.
-- 📫 Как со мной связаться: **[Твой Email / Telegram / LinkedIn]**
+- 🏗  Проектирую архитектуру фронтенда и пишу надежные API на **Node.js, Express, Bun и Hono**.
+- 💬 Работаю с **JavaScript, TypeScript, Redux, Mobx, RTK Query, Pinia**.
 
 ---
 
